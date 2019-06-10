@@ -13,3 +13,6 @@ Server will be running at port 1883
 
 ### For configured MQTT server:
 Update later....
+
+# Reference
+* [1] Quang Nguyen Duy and Nguyen Dinh Nguyen, Thesis: Ứng dụng blockchain vào hệ thống chuỗi cung ứng cà phê kết hợp IoT, June 2019.
